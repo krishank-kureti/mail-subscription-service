@@ -1,0 +1,11 @@
+# Core web framework
+flask
+bcrypt
+
+# Testing
+pytest
+pytest-cov
+
+# Linting & Security
+pylint
+bandit

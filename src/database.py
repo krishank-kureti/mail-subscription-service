@@ -1,5 +1,6 @@
 # src/database.py
-
+# This is a mock database stub to be used by the auth module.
+# In a real app, this would be a database connection.
 
 db = {
     "users": {

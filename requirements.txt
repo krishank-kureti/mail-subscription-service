@@ -1,6 +1,9 @@
+# requirements.txt
 # Core web framework
 flask
 bcrypt
+flask-bcrypt # <-- ADD THIS
+PyJWT # <-- ADD THIS
 
 # Testing
 pytest
